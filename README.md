@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrSandman971
-- 👀 I’m interested in Cloud Security & Artificial Intelligence 
+- 👀 I’m interested in Cloud Security
 - 🌱 I’m currently learning Setting up a simble website
-- 💞️ I’m looking to learn from others
+- 💞 I’m looking to learn from others
 - 📫 How to reach me aalameri9232@gmail.com
 
 - ⚡ Fun fact: Im a human 
